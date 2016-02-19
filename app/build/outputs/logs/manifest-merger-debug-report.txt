@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:1:1-25:12
+	package
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:2:5-42
+		INJECTED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:7:9-34
+		INJECTED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:13:22-72
+application
+ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:15:4-24:19
+	android:label
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:16:9-41
+activity#com.AndroidTelephonyManager.AndroidTelephonyManager
+ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:label
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:18:19-51
+	android:name
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:17:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/pranjal/AndroidStudioProjects/NeighbourCell1/app/src/main/AndroidManifest.xml:21:27-74

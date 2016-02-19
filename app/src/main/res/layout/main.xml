@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/gsmshow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cell info" />
+
+    <TextView
+        android:id="@+id/gsmcelllocation"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/mcc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/mnc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/cid"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    
+     <TextView
+        android:id="@+id/Mrssi"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/dateAndTime"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/lat"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/log"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    
+    <TextView
+        android:id="@+id/neighboring"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="No compass sensor"
+        android:id="@+id/compass"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="No accelerometer sensor"
+        android:id="@+id/accelerometer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
