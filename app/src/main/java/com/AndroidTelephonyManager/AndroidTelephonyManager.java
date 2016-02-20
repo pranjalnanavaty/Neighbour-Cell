@@ -348,6 +348,7 @@ public class AndroidTelephonyManager extends Activity {
 							OutputStreamWriter myOutWriter = new OutputStreamWriter(
 									fOut);
 
+                            myOutWriter.append("\n");
 							myOutWriter.append(textMCC.getText());
 							myOutWriter.append("\n");
 							myOutWriter.append(textMNC.getText());
@@ -363,7 +364,10 @@ public class AndroidTelephonyManager extends Activity {
 							myOutWriter.append(sig.getText());
 							myOutWriter.append("\n"); 
 							myOutWriter.append(Neighboring.getText());
-							myOutWriter.append("\n");							
+                            myOutWriter.append(textCompass.getText());
+                            myOutWriter.append("\n");
+                            myOutWriter.append(textAccelerometer.getText());
+                            myOutWriter.append("\n");
 							myOutWriter.close();
 							fOut.close();
 
